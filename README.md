@@ -21,7 +21,7 @@
 // ==/UserScript==
 ```
 
-##### next you can make the function here is an example to start
+##### next you can make the function here is an example it also contains all the info you need
 
 ```js
 // ==UserScript==
