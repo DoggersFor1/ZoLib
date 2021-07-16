@@ -35,7 +35,7 @@
 // @require     https://raw.githubusercontent.com/Xgod2205/ZoLib/main/ZoLib.js
 // ==/UserScript==
 
-const ex = new addChatListener(function(), "!message", *) // start means everyone can use it if you leave it blank only you can use it
+const ex = new addChatListener(function(), "!message", *) // * mean that everyone can use it. if you leave it blank only you can use it
 
 const function = () => {
   console.log("test")
